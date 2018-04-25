@@ -1,0 +1,47 @@
+body {
+display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 150px;
+  background-color:rgba(117, 190, 218, 0.5);
+  color: :rgb(0,150,200);
+}
+h1 {
+  font-weight: lighter;
+  font-size: 40px;
+  letter-spacing: 2px;
+  margin-bottom: 0px;
+  color:black;
+}
+.inputSection {
+  margin: 50px 0px 80px 0px;
+  width: 400px;
+
+}
+
+.inputs{
+  width:inherit;
+  display: flex;
+  flex-direction: column;
+}
+
+ input{
+   margin-top: 10px;
+ }
+
+.addoption{
+  margin-top: 10px;
+  background-color: pink;
+  color:red;
+}
+.gooption{
+  background-color: lightgreen;
+  color:green;
+}
+
+.picture{
+  margin-top: 20px;
+  margin-bottom: 0px;
+
+}
