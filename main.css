@@ -30,12 +30,12 @@ h1 {
    margin-top: 10px;
  }
 
-.addoption{
+.addOption{
   margin-top: 10px;
   background-color: pink;
   color:red;
 }
-.gooption{
+.goOption{
   background-color: lightgreen;
   color:green;
 }
